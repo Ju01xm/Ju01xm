@@ -23,8 +23,4 @@ I am a **CS student** and **UI/UX Designer** with a passion for building interac
 * **Email:** jumanamohammed0110@gmail.com
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ju01xm&count_private=true&show_icons=true&theme=radical&hide_rank=false" alt="Jumana's github stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju01xm&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+[![Jumana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ju01xm&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
