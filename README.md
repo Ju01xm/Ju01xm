@@ -23,4 +23,15 @@ I am a **CS student** and **UI/UX Designer** with a passion for building interac
 * **Email:** jumanamohammed0110@gmail.com
 ---
 
-[![Jumana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ju01xm&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Ju01xm&show_icons=true&theme=radical&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Ju01xm&show_icons=true&theme=default&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ju01xm&show_icons=true&theme=radical&count_private=true" />
+</picture>
