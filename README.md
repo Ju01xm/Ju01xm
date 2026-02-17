@@ -3,15 +3,6 @@
 I am a **CS student** and **UI/UX Designer** with a passion for building interactive, intelligent applications. I enjoy blending technical complexity with creative design.
 
 ---
-
-### 🛠 Tech Stack
-
-* **Languages:** Java, Dart, Python
-* **Frameworks:** Figma, Flutter, FlutterFlow, Streamlit
-* **Tools:** Firebase, TensorFlow Lite, OpenCV
-
----
-
 ### 🚀 Featured Projects
 
 * **Quiz generator**: 
