@@ -23,6 +23,11 @@ I am a **CS student** and **UI/UX Designer** with a passion for building interac
 * **Email:** jumanamohammed0110@gmail.com
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ju01xm&show_icons=true&theme=radical&count_private=true" alt="Jumana's GitHub Stats" />
+</p>
+
+---
 
 <picture>
   <source
