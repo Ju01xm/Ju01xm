@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Jumana
 
-<!--
-**Ju01xm/Ju01xm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **CS student** and **UI/UX Designer** with a passion for building interactive, intelligent applications. I enjoy blending technical complexity with creative design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+* **Languages:** Java, Dart, Python
+* **Frameworks:** Figma, Flutter, FlutterFlow, Streamlit
+* **Tools:** Firebase, TensorFlow Lite, OpenCV
+
+---
+
+### 🚀 Featured Projects
+
+* **Quiz generator**: 
+---
+
+### 📫 Connect with me
+
+* **LinkedIn:** [https://www.linkedin.com/in/jumana-a-607a3b280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+* **Email:** jumanamohammed0110@gmail.com
